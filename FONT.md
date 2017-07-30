@@ -1,7 +1,5 @@
-## Fira Code
+## Fira Mono
 
-https://github.com/tonsky/FiraCode
-
-<img src="http://s.tonsky.me/imgs/fira_code_logo.svg">
+https://github.com/mozilla/Fira
 
 See [LICENSE](./LICENSE)
