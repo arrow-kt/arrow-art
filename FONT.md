@@ -1,5 +1,7 @@
-## Fira Mono
+## Source Sans Pro
 
-https://github.com/mozilla/Fira
+[adobe-fonts/source-sans-pro](https://github.com/adobe-fonts/source-sans-pro)
 
-See [LICENSE](./LICENSE)
+### Google Fonts
+
+[Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro)
