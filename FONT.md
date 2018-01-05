@@ -1,7 +1,7 @@
 ## Source Sans Pro
 
-[https://github.com/adobe-fonts/source-sans-pro]()
+[adobe-fonts/source-sans-pro](https://github.com/adobe-fonts/source-sans-pro)
 
 ### Google Fonts
 
-[https://fonts.google.com/specimen/Source+Sans+Pro]()
+[Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro)
