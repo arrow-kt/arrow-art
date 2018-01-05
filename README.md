@@ -1,2 +1,2 @@
 # art
-Kategory design assets
+Arrow design assets
